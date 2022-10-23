@@ -1,4 +1,4 @@
-# Pick_game-mini_Js
+# Pick_game
 Mini Project for JavaScript
 
 > About Game
